@@ -6,4 +6,6 @@ https://forums.alliedmods.net/showthread.php?t=319964
 
 This is the AgentsChooser translated in Chinese version.
 
-使用方法：将csgo_agentschooser-zh-cn.smx放入/csgo/addons/sourcemod/plugins
+使用方法：将[csgo_agentschooser-zh-cn.smx]放入/csgo/addons/sourcemod/plugins
+
+[csgo_agentschooser-zh-cn.smx]:https://github.com/yaalyy/Franug-AgentsChooser/blob/master/csgo_agentschooser-zh-cn.smx
